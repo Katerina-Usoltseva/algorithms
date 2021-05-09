@@ -1,0 +1,8 @@
+# Compiled Object files
+*.vs
+/Debug/
+/algorithms/Debug/*
+/algorithms/*.vcxproj*
+/algorithms/Debug/*.vcxproj
+
+*.sln
